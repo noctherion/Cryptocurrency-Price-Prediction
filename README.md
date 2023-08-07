@@ -3,10 +3,10 @@ Develop a predictive model using machine learning techniques to forecast cryptoc
 
 Building a cryptocurrency price prediction model is a complex and data-intensive task. It requires expertise in data analysis, machine learning, and financial modeling. Below, I'll provide a simplified and high-level example of how you can approach this task using Python and some common libraries. Please note that this is a basic example, and for accurate and reliable price predictions, a more sophisticated model and extensive data analysis would be required.
 
-__Step 1: Data Collection__
+__Step 1: Data Collection:__
 
 Collect historical price and volume data for the target cryptocurrency. You can use cryptocurrency APIs or financial data sources for this purpose.
-__Step 2: Data Preprocessing__
+__Step 2: Data Preprocessing:__
 
 Clean the data, handle missing values, and normalize the features if necessary. Convert the data into a format suitable for training machine learning models.
 Step 3: Feature Engineering
