@@ -9,7 +9,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error
 df = pd.read_csv('cryptocurrency_data.csv')
 print(df.head())
 
-# Step 2: Data Preprocessing
+# Step 2: Data Preprocessing:
 # Drop missing values and select relevant features
 df = df.dropna()
 X = df[['Volume', 'Open', 'High', 'Low']].values
